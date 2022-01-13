@@ -1,4 +1,5 @@
 Hello đây là web bán hàng sử dụng Yii framework
+**Quan trọng : trước khi chạy thì cần import CSDL nhé, file sql mình đã xuất ra rồi , cài xampp xong vào php import là xong
 
 -Để chạy được bạn sẽ cần những thứ sau:
 1.Web server local Xampp : https://www.apachefriends.org/download.html
